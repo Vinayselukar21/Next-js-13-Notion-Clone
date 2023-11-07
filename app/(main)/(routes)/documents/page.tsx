@@ -1,3 +1,4 @@
+"use client"
 const DocumentPage = () => {
     return (<div>
         This is protected page
